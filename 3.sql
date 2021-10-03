@@ -1,4 +1,4 @@
---Number 1
+--Number 01
 CREATE OR REPLACE PROCEDURE myFor 
 IS counter NUMBER;
 BEGIN
