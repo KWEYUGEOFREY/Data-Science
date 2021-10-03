@@ -13,7 +13,7 @@ myFor;
 END;
 /
 /*Output
-Index value is 1
+Index value is  1
 Index value  is 2
 ....
 Index value is 100
