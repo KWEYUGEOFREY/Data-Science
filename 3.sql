@@ -32,7 +32,7 @@ LOOP
 	END LOOP;
 END LOOP;
 END nestFor;
---Output: PL/SQL Procedure Created.
+--Output: PL/SQL Procedure  Created.
 BEGIN
 nestFor;
 END;
