@@ -7,7 +7,7 @@ LOOP
 DBMS_OUTPUT.PUT_LINE('Index value is: ' || counter);
 END LOOP;
 END myFor;
---Output: PL/SQL  Procedure Created.
+--Output: PL/SQL  Procedure  Created.
 BEGIN
 myFor;
 END;
